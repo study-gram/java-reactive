@@ -1,8 +1,8 @@
 package kr.springboot.study.chap1;
 
 
-import rx.Observable;
-import rx.schedulers.Schedulers;
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.schedulers.Schedulers;
 
 /**
  * CHAP1 APP
